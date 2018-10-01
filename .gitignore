@@ -1,5 +1,5 @@
 .env
 .vscode
-bot2
+bot2/*
 *.pyc
 *.log
