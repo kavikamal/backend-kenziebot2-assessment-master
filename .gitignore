@@ -1,0 +1,5 @@
+.env
+.vscode
+bot2
+*.pyc
+*.log
